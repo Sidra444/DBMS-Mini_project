@@ -1,0 +1,12 @@
+c:\users\sid\documents\visual studio 2015\Projects\FYP proj\FYP proj\bin\Debug\FYP proj.exe.config
+c:\users\sid\documents\visual studio 2015\Projects\FYP proj\FYP proj\bin\Debug\FYP proj.exe
+c:\users\sid\documents\visual studio 2015\Projects\FYP proj\FYP proj\bin\Debug\FYP proj.pdb
+c:\users\sid\documents\visual studio 2015\Projects\FYP proj\FYP proj\obj\Debug\FYP proj.csprojResolveAssemblyReference.cache
+c:\users\sid\documents\visual studio 2015\Projects\FYP proj\FYP proj\obj\Debug\FYP_proj.Properties.Resources.resources
+c:\users\sid\documents\visual studio 2015\Projects\FYP proj\FYP proj\obj\Debug\FYP proj.csproj.GenerateResource.Cache
+c:\users\sid\documents\visual studio 2015\Projects\FYP proj\FYP proj\obj\Debug\FYP proj.exe
+c:\users\sid\documents\visual studio 2015\Projects\FYP proj\FYP proj\obj\Debug\FYP proj.pdb
+C:\Users\sid\Documents\Visual Studio 2015\Projects\FYP proj\FYP proj\obj\Debug\FYP_proj.Evaluation.resources
+C:\Users\sid\Documents\Visual Studio 2015\Projects\FYP proj\FYP proj\obj\Debug\FYP_proj.Student.resources
+C:\Users\sid\Documents\Visual Studio 2015\Projects\FYP proj\FYP proj\obj\Debug\FYP_proj.Project.resources
+C:\Users\sid\Documents\Visual Studio 2015\Projects\FYP proj\FYP proj\obj\Debug\FYP_proj.Advisor.resources
