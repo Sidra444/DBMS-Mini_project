@@ -111,8 +111,8 @@ namespace FYP_proj
         //Linking
         private void button4_Click(object sender, EventArgs e)
         {
-            Project p = new Project();
-            p.Show();
+            Group g = new Group();
+            g.Show();
         }
     }
 }

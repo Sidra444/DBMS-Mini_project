@@ -118,8 +118,8 @@ namespace FYP_proj
 
         private void button4_Click_1(object sender, EventArgs e)
         {
-            Advisor a = new Advisor();
-            a.Show();
+            GroupProject gp = new GroupProject();
+            gp.Show();
         }
     }
     }

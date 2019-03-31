@@ -10,3 +10,21 @@ C:\Users\sid\Documents\Visual Studio 2015\Projects\FYP proj\FYP proj\obj\Debug\F
 C:\Users\sid\Documents\Visual Studio 2015\Projects\FYP proj\FYP proj\obj\Debug\FYP_proj.Student.resources
 C:\Users\sid\Documents\Visual Studio 2015\Projects\FYP proj\FYP proj\obj\Debug\FYP_proj.Project.resources
 C:\Users\sid\Documents\Visual Studio 2015\Projects\FYP proj\FYP proj\obj\Debug\FYP_proj.Advisor.resources
+C:\Users\sid\Desktop\DBMS-Mini_project\FYP proj\FYP proj\bin\Debug\FYP proj.exe.config
+C:\Users\sid\Desktop\DBMS-Mini_project\FYP proj\FYP proj\obj\Debug\FYP proj.exe
+C:\Users\sid\Desktop\DBMS-Mini_project\FYP proj\FYP proj\obj\Debug\FYP proj.pdb
+C:\Users\sid\Desktop\DBMS-Mini_project\FYP proj\FYP proj\bin\Debug\FYP proj.exe
+C:\Users\sid\Desktop\DBMS-Mini_project\FYP proj\FYP proj\bin\Debug\FYP proj.pdb
+C:\Users\sid\Desktop\DBMS-Mini_project\FYP proj\FYP proj\obj\Debug\FYP proj.csprojResolveAssemblyReference.cache
+C:\Users\sid\Desktop\DBMS-Mini_project\FYP proj\FYP proj\obj\Debug\FYP_proj.Advisor.resources
+C:\Users\sid\Desktop\DBMS-Mini_project\FYP proj\FYP proj\obj\Debug\FYP_proj.Evaluation.resources
+C:\Users\sid\Desktop\DBMS-Mini_project\FYP proj\FYP proj\obj\Debug\FYP_proj.Group.resources
+C:\Users\sid\Desktop\DBMS-Mini_project\FYP proj\FYP proj\obj\Debug\FYP_proj.GroupEvaluation.resources
+C:\Users\sid\Desktop\DBMS-Mini_project\FYP proj\FYP proj\obj\Debug\FYP_proj.GroupProject.resources
+C:\Users\sid\Desktop\DBMS-Mini_project\FYP proj\FYP proj\obj\Debug\FYP_proj.GroupStudent.resources
+C:\Users\sid\Desktop\DBMS-Mini_project\FYP proj\FYP proj\obj\Debug\FYP_proj.Person.resources
+C:\Users\sid\Desktop\DBMS-Mini_project\FYP proj\FYP proj\obj\Debug\FYP_proj.Project.resources
+C:\Users\sid\Desktop\DBMS-Mini_project\FYP proj\FYP proj\obj\Debug\FYP_proj.ProjectAdvisor.resources
+C:\Users\sid\Desktop\DBMS-Mini_project\FYP proj\FYP proj\obj\Debug\FYP_proj.Properties.Resources.resources
+C:\Users\sid\Desktop\DBMS-Mini_project\FYP proj\FYP proj\obj\Debug\FYP_proj.Student.resources
+C:\Users\sid\Desktop\DBMS-Mini_project\FYP proj\FYP proj\obj\Debug\FYP proj.csproj.GenerateResource.Cache
